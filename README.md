@@ -1,4 +1,5 @@
-Weather App
+Weather App Using weather api
+
 Overview
 This is a simple weather app that provides current weather information based on the city name entered by the user. It uses the OpenWeatherMap API to fetch weather data and displays it in a user-friendly format. The app shows the temperature, weather conditions, humidity, and wind speed, and it updates the weather icon based on the current weather conditions.
 
