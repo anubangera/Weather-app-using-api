@@ -34,3 +34,9 @@ Open index.html in a web browser to view and use the weather app.
 API Key
 
 Replace the placeholder API key (b064a1bde58ef03152238f8a6e87c92f) in the script.js file with your own OpenWeatherMap API key for the app to work.
+
+Live Demo
+
+Check out the live demo or preview of the project here.https://anubangera.github.io/Weather-app-using-api/
+
+
